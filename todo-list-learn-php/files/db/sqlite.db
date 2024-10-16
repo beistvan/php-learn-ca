@@ -1,0 +1,2 @@
+SQLite format 3
+{�UtabletodostodosCREATE TABLE todos (id INTEGER PRIMARY KEY, description TEXT, complete BOOLEAN NOT NULL DEFAULT "0")
