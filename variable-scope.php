@@ -10,4 +10,5 @@ function generateLessonName($concept)
 }
 
 echo generateLessonName($topic);
+
 ?>
